@@ -21,6 +21,11 @@
 
 </div>
 
+> [!IMPORTANT]
+> ### 🔒 Məlumatların Məxfiliyi və Giriş (Access) Müraciəti / Private Data & Repository Access
+> - **🇦🇿 AZ:** Bu təşkilatın əsas məlumat bazası (raw datasets), biostatistika modelləri və backend kodları ([`SuleimanBiopythonPractised`](https://github.com/SuleimanBiopythonPractised/SuleimanBiopythonPractised)) **Private (Məxfi)** statusdadır. Əgər məlumatlara və ya repozitoriyaya giriş (access) əldə etmək istəyirsinizsə, elektron poçt ünvanıma müraciət edə bilərsiniz: **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com)**
+> - **🇬🇧 EN:** The core biological datasets, research notebooks, and backend computational pipelines ([`SuleimanBiopythonPractised`](https://github.com/SuleimanBiopythonPractised/SuleimanBiopythonPractised)) are stored in a **Private** repository. To request collaborator or read access for research/academic purposes, please apply via email: **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com)**
+
 ## 🏛️ Organization Architecture
 
 The **SuleimanBiopythonPractised** ecosystem is architected into a two-pillar repository model separating core computation/data from public-facing interactive presentation:
@@ -52,7 +57,7 @@ The **SuleimanBiopythonPractised** ecosystem is architected into a two-pillar re
 
 ### 1. 🔒 [`SuleimanBiopythonPractised`](https://github.com/SuleimanBiopythonPractised/SuleimanBiopythonPractised)
 > **Role**: Core Computational Biology Engine, Research Datasets, Statistical Modeling & Backend Workflows.  
-> **Visibility**: Private (Secure research & computational pipelines)
+> **Visibility**: 🔒 **Private** (Giriş üçün elektron poçtla müraciət edin: `suleyman.hacizade1@gmail.com` / Apply for access via email)
 
 * **Key Capabilities**:
   * **Sequence Analysis**: Automated FASTA/FASTQ quality analysis, transcription/translation pipelines, ORF discovery, codon usage bias calculations.

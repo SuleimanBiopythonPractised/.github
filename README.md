@@ -23,6 +23,10 @@ This repository hosts the **Organization Profile** and global **Community Health
 
 ---
 
+> [!IMPORTANT]
+> ### 🔒 Data Privacy & Access Requests
+> The core datasets, biostatistical analysis pipelines, and research models reside in the **Private** repository [`SuleimanBiopythonPractised`](https://github.com/SuleimanBiopythonPractised/SuleimanBiopythonPractised). If you wish to request access, contact via email: **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com)**.
+
 ## 🌐 Public Links
 * **Live Web Portal**: [https://suleimanbiopythonpractised.github.io/](https://suleimanbiopythonpractised.github.io/)
 * **Organization Profile**: [https://github.com/SuleimanBiopythonPractised](https://github.com/SuleimanBiopythonPractised)
